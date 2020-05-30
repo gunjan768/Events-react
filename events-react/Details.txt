@@ -1,0 +1,2 @@
+Used firebase project ---> events-react
+Used API key of project ---> react-native-devices . By mistake I used API key of this project. Change it afterwards.

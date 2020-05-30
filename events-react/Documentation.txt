@@ -1,0 +1,16 @@
+1) react-redux-firebase
+	http://react-redux-firebase.com/docs/recipes/auth.html#wait-for-auth-to-load
+	https://react-redux-firebase.com/docs/firestore.html
+	https://react-redux-firebase.com/docs/recipes/profile.html
+
+2) PlacesAutocomplete
+	https://github.com/hibiken/react-places-autocomplete#load-google-library
+
+3) BasicRules for firebase 
+	https://firebase.google.com/docs/rules/basics?authuser=0#cloud-firestore
+
+4) Toastr
+	https://github.com/CodeSeven/toastr
+
+5) React
+	https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html#updating-state-based-on-props
