@@ -70,7 +70,7 @@ class TestComponent extends Component
 			<div>
 
 				<Script
-					url='https://maps.googleapis.com/maps/api/js?key=AIzaSyBeGFf-IvUPyRs-QWxYBQDIhWOSplEh6BA&libraries=places'
+					url='https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY'
 					onLoad = { this.handleScriptLoad }
 				/>
 
