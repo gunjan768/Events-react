@@ -31,7 +31,7 @@ class PlaceInput extends Component
 			<div>
 
 				<Script												
-					url="https://maps.googleapis.com/maps/api/js?key=AIzaSyBnBTKcVlsrqTToj5u3ur16DvMRaAqJICY&libraries=places"
+					url="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"
 					onLoad = { this.handleScriptLoaded }
 				/>
 
