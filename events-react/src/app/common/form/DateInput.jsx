@@ -16,7 +16,7 @@ const DateInput = ({input: {value, onChange, ...restInput}, width, placeholder, 
 
 	// ****************************************************  Read this for info  **********************************************************
 
-	// timeStamp --> [object Object] ---> Firestore will return this format if date format selected on firestore is timestamp.
+	// timeStamp --> [object Object] ---> Firestore will return this format if date format selected in firestore is timestamp.
 	// Thu Mar 09 2000 00:00:00 GMT+0530 (India Standard Time) --> new Date() --> [object Date] ----> Datepicker will also return this format.
 	// 2000-03-22 ---> [object String] ---> when you click you on date input but doesn't change the time and clicked somewhere  
 
